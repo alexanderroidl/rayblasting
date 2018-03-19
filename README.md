@@ -1,4 +1,4 @@
-![Rayblasting preview](http://dummy-site/dummy-img.jpg "Rayblasting preview")
+![Rayblasting preview](https://github.com/alexanderroidl/rayblasting/blob/master/screenshot.png "Rayblasting preview")
 
 Rayblasting
 ===
